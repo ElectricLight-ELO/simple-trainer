@@ -1,1 +1,1 @@
-work by pointers in games and another applications
+### work by pointers in applications
